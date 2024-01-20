@@ -1,39 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Webpage with Dropdown Menu</title>
-    <style>
-        /* Optional styling for the dropdown menu */
-        nav {
-            display: flex;
-            justify-content: space-between;
-            align-items: left;
-            background-color: #333;
-            padding: 10px;
-            color: grey;
-        }
-
-        ul {
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-            display: none; /* Hide the dropdown menu by default */
-            position: absolute;
-            background-color: #333;
-        }
-
-        ul li {
-            padding: 10px;
-            text-align: center;
-        }
-
-        /* Style for dropdown trigger */
-        nav:hover ul {
-            display: block; /* Show the dropdown menu on hover */
-        }
-    </style>
+    
 </head>
 <body>
     <header>
