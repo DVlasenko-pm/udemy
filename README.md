@@ -1,24 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>My site</title>    
 </head>
 <body>
     <header>
-        <div class="image-container">
-            <img src="header.jpg" alt="Header Image">
-            <p class="text-on-image">Це якійсь піпец!!!</p>
-        </div>
-        <h1>This is the Header</h1>
-
-        <!-- Dropdown menu -->
-        <nav>
-            <ul>
-                <li>у пісі</li>
-                <li>на пузі</li>
-                <li>у попі</li>
-            </ul>
-        </nav>
+       
     </header>
 
     <main>
